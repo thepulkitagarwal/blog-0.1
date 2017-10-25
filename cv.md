@@ -7,75 +7,56 @@ modified: 8-7-2014
 comments: false
 ---
 
-
 <section>
 
-    <p align="center">
-    <img src="{{ site.url }}/images/CV/job.png" alt="Work Experience"  width="70">
-    </p>
-  <div style="text-align:center"><ul><li>I am a <strong> research group leader </strong> at the <a href="http://www.tum.de/en/homepage/" target="_blank">Technical University of Munich</a> and a recipient of the <a href="https://www.humboldt-foundation.de/web/52671081.html" target="_blank"> Sofja Kovalevskaja Award</a> from the <a href="https://www.humboldt-foundation.de/web/home.html" target="_blank"> Humboldt Foundation</a>.</li>
-  <br>
-  <li>I spent a year as a <strong> postdoc </strong> at the <a href="https://vision.in.tum.de/">Computer Vision Group</a> of the <a href="http://www.tum.de/en/homepage/" target="_blank">Technical University of Munich</a> working with <a href="https://vision.in.tum.de/members/cremers">Prof. Daniel Cremers</a>. </li>
-  <br>
- <li> Before, I spent two years as <strong>postdoc</strong> at <a href="https://www.ethz.ch/en.html">ETH Zurich</a> in the <a href="http://www.prs.igp.ethz.ch/">Photogrammetry and Remote Sensing group</a>, working with <a href="http://www.prs.igp.ethz.ch/content/specialinterest/baug/institute-igp/photogrammetry-and-remote-sensing/en/group/people/person-detail.html?persid=143986">Prof. Konrad Schindler</a>. </li> 
-  <br>
- <li> I spend almost a year as a <strong>visiting scholar</strong> at the <a href="https://www.umich.edu/">University of Michigan</a> in <a href="http://cvgl.stanford.edu/silvio/">Prof. Silvio Savarese</a>'s group. </li> 
- <br>
- <li> I started my academic career as a <strong> research and teaching assistant</strong> at the <a href="http://www.uni-hannover.de/">Leibniz University Hannover</a> in Germany, working in the <a href="https://www.tnt.uni-hannover.de/">Institute for Information Processing (TNT)</a> with <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li></ul> </div>
-
-  <br>
-  
-  
-  <p align="center">
-    <img src="{{ site.url }}/images/CV/education.png" alt="Education" width="70">
-    </p>
-  <div style="text-align:center"><ul><li>I have a <strong>PhD</strong> in Computer Vision from the <a href="">Leibniz University Hannover</a> supervised by <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
-  <br>
-   <li> I went to Boston to do my <strong>Master Thesis</strong> at <a href="http://www.northeastern.edu/">Northeastern University</a>, and that is where my passion for Computer Vision started!</li>
+<!-- WORK EXPERIENCE -->
+<p align="center"><img src="{{ site.url }}/images/CV/job.png" alt="Work Experience" width="70"></p>
+<ul>
+  <li>
+    I interned at <strong><a href="http://www.arcesium.com/" style="color:red;">Arcesium</a></strong>, a post-trade technology and professional services firm, at the end of my junior year. I designed an in-house data processing and visualization tool, which helped users to collate large amounts of data from various sources, and visualize it with the level of detail as required.
+  </li><br>
+  <li>
+    I worked for <strong><a href="http://www.birla-sugar.com/" style="color:blue">Birla Sugar</a></strong> during winter break in my junior year, to develop their new corporate website using ReactJS and ES6, which will be launched early next year.
+  </li><br>
+  <li>
+    I interned at <strong><a href="http://deltastep.com/homepage" style="color:purple">Delta Step</a></strong>, an online education platform, after my sophomore year.
     <br>
+    I designed a rating mechanism for videos, questions and students. I also created a tool to visualize the calculated ratings and track them in real time, available <a href="https://github.com/thepulkitagarwal/Quizrr-Viz">here</a>.
+  </li><br>
+</ul>
 
- <li> I studied the bachelor and master in <strong>Telecommunications Engineering</strong> at the <a href="http://www.upc.edu/?set_language=en">Technical University of Catalonia (UPC)</a>.</li> 
- 
-</ul> </div>
+<!-- EDUCATION -->
+<p align="center"><img src="{{ site.url }}/images/CV/education.png" alt="Education" width="70"></p>
+<ul>
+  <li>
+    I am currently studying for my bachelor's degree in <strong>Computer Science</strong> at the <a href="http://www.bits-pilani.ac.in/">Birla Institute of Technology &amp; Science, Pilani (BITS, Pilani)</a>.
+  </li><br>
+</ul>
 
-<br>
-
-  <p align="center">
-    <img src="{{ site.url }}/images/CV/pencil.png" alt="Research and teaching" width="70">
-    </p>
-  <div style="text-align:center"><ul><li>I am interested in dynamic scene understanding, multiple object tracking, temporal deep learning and video analysis in general.</li>
-  <br>
-   <li> I like to code in MatLab and speed things up with some C++, though I am learning Python right now and I like it!</li>
-    <br>
-
- <li> I have taught courses on deep learning, tracking, network flows and organized practical courses on deep learning for computer vision, panorama stitching, structure-from motion.</li> 
- 
-</ul> </div>
-
-
-  <br>
-  
-    <p align="center">
-    <img src="{{ site.url }}/images/CV/languages.png" alt="Languages" width="70">
-    </p>
-  <div style="text-align:center"><ul>
-  El <strong>catal&agrave;</strong> &eacute;s la meva llengua materna. 
-  <br>
-My <strong>english</strong> is hopefully awesome.
- <br>
- Tambi&eacute;n hablo <strong>espa&ntilde;ol</strong>.
-    <br>
-Mi piace anche parlare <strong>italiano</strong>.
- <br>
-Ich spreche ein bisschen <strong>Deutsch</strong>.
- 
-</ul> </div>
-
-    
-    <br><br>
+<!-- GENERAL -->
+<p align="center"><img src="{{ site.url }}/images/CV/pencil.png" alt="Research" width="70"></p>
+<ul>
+  <li>
+    I like to code in Python and Javascript!
+  </li><br>
+  <li>
+    I am interested in deep learning, natural language processing, and networking.
+  </li><br>
+  <li>
+    I am working with Prof. Sreejith V to create an android app using tensorflow to detect braking and cornering in cars, by using only sensors that are available on most android phones, and disregarding the orientation of the phone.
+  </li><br>
+  <li>
+    I am working on creating a energy efficient routing algorithm for wireless sensor networks using Steiner Trees with Prof. Sreejith V.
+  </li><br>
+  <li>
+    I am working on bridge distribution mechanisms and techniques in tor, with Prof. S. Sahay.
+  </li><br>
+  <li>
+    I am working on finding feature selection techniques for large amount of text with Prof. R. Roul.
+  </li><br> 
+</ul>
 </section>
 
-    
-    
-You can also download my [full CV]({{ site.url }}/images/CV/LealTaixe-CV.pdf).
+
+You can also download my <a href="https://drive.google.com/open?id=0B5ispejkKNlFeVBOcXBOeldSZEE" target="_blank">full CV <i class="fa fa-external-link" style="transition: none;"></i></a>.
 
