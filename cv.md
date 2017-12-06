@@ -1,7 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
-title: A bit more about me
+permalink: /
+title: About me
 tags: [about]
 modified: 8-7-2014
 comments: false
@@ -40,20 +40,17 @@ comments: false
     I like to code in Python and Javascript!
   </li><br>
   <li>
-    I am interested in deep learning, natural language processing, and networking.
+    I am interested in deep learning, reinforcement learning, computer vision, and networking.
   </li><br>
   <li>
     I am working with Prof. Sreejith V to create an android app using tensorflow to detect braking and cornering in cars, by using only sensors that are available on most android phones, and disregarding the orientation of the phone.
   </li><br>
   <li>
-    I am working on creating a energy efficient routing algorithm for wireless sensor networks using Steiner Trees with Prof. Sreejith V.
+    I am working on creating energy efficient routing algorithms for wireless sensor networks using Steiner Trees with Prof. Sreejith V.
   </li><br>
   <li>
     I am working on bridge distribution mechanisms and techniques in tor, with Prof. S. Sahay.
   </li><br>
-  <li>
-    I am working on finding feature selection techniques for large amount of text with Prof. R. Roul.
-  </li><br> 
 </ul>
 </section>
 
